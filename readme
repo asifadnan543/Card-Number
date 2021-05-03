@@ -1,0 +1,25 @@
+Credit Card Information Generate Hacking Tool to Termux
+
+               [Open Termux and Type the Command ]
+
+$  apt update && apt upgrade
+
+$  pkg install python
+
+$  pkg install git
+
+$  pkg install php
+
+$   git clone https://github.com/INDOnimous/Card-Number
+
+$  cd Card-Number
+
+$  ls
+
+$  chmod 777 Card.sh
+
+$  sh Card.sh
+
+[#]  Count      : (Number of cards to be generated)
+
+[#]  Delay       : Delay in generating cards)
